@@ -1,0 +1,10 @@
+print("Welcome")
+Welcome
+print("what is your name?")
+what is your name?
+input("what is your name?")
+what is your name?Sobia
+'Sobia'
+print("Hello"+input("what is your name?"))
+what is your name?Sobia
+HelloSobia
